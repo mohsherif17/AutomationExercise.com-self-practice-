@@ -1,0 +1,20 @@
+{
+  "name": "automation_test",
+  "email": "automationtest_",
+  "title": "Mr",
+  "password": "P@ssw0rd",
+  "day": "17",
+  "month": "June",
+  "year": "2000",
+  "FName": "Tester",
+  "LName": "autoMan",
+  "company": "sdada",
+  "address1": "cityNight",
+  "address2": "cityLight",
+  "country": "India",
+  "city": "cairo",
+  "state": "cairo",
+  "zipCode": "515151",
+  "mobileNumber": "01234560014"
+
+}

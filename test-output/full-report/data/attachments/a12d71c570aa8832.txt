@@ -1,0 +1,93 @@
+[INFO] Execution started
+[ERROR] Failed to clear the file\test-output\ScreenShots
+[ERROR] Failed to clear the fileCannot delete file: D:\00ITI_Testing\java\Automation-Exercise\test-output\Logs\logs.log
+[INFO] Test output directories cleaned
+[INFO] Test output directories created
+[INFO] Properties loaded
+[INFO] Allure environment info set successfully
+[ERROR] Error while extracting allure zip: C:\Users\BROTHERS\.m2\repository\allure\allure-2.35.1
+[INFO] Allure binaries downloaded and extracted successfully
+[INFO] Allure environment info set
+[INFO] ✅ JSON file loaded successfully: Checkout-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] RegisterAnewAccount about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[ERROR] ⚠️ Error while reading JSON path name from file Checkout-Data:  No results for path: $['name']
+[INFO] io.restassured.internal.RestAssuredResponseImpl@1676e501
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/RegisterAnewAccount.png
+[INFO] RegisterAnewAccount Finished
+[INFO] RegisterAnewAccount passed
+[INFO] loginToAccount about to execute
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationTestCheckOut_1761750415508@gmail.com
+[INFO] Typed into element successfully:  P@ssw0rd
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/loginToAccount.png
+[INFO] loginToAccount Finished
+[INFO] loginToAccount passed
+[INFO] addToCart about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Men Tshirt']
+[INFO] Clicked on element successfully:  By.xpath: //div[@class='overlay-content']/p[normalize-space(text())='Men Tshirt']/following-sibling::a[contains(@class,'add-to-cart')]
+[INFO] Clicked on element successfully:  By.cssSelector: p > [href="/view_cart"]
+[INFO] Retrieved text from element successfully. Men Tshirt
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. 1
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Clicked on element successfully:  By.xpath: //a[normalize-space()='Proceed To Checkout']
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/addToCart.png
+[INFO] addToCart Finished
+[INFO] addToCart passed
+[INFO] CheckOutPageTest about to execute
+[INFO] Retrieved text from element successfully. Mr. Tester autoMan
+[INFO] Retrieved text from element successfully. sdada
+[INFO] Retrieved text from element successfully. cityNight
+[INFO] Retrieved text from element successfully. cityLight
+[INFO] Retrieved text from element successfully. cairo cairo 515151
+[INFO] Retrieved text from element successfully. India
+[INFO] Retrieved text from element successfully. 01234560014
+[INFO] Retrieved text from element successfully. Mr. Tester autoMan
+[INFO] Retrieved text from element successfully. sdada
+[INFO] Retrieved text from element successfully. cityNight
+[INFO] Retrieved text from element successfully. cityLight
+[INFO] Retrieved text from element successfully. cairo cairo 515151
+[INFO] Retrieved text from element successfully. India
+[INFO] Retrieved text from element successfully. 01234560014
+[INFO] Retrieved text from element successfully. Men Tshirt
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. 1
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/CheckOutPageTest.png
+[INFO] CheckOutPageTest Finished
+[INFO] CheckOutPageTest passed
+[INFO] after test register test
+[INFO] ✅ JSON file loaded successfully: Payment-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] RegisterAnewAccount about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[ERROR] ⚠️ Error while reading JSON path name from file Payment-Data:  No results for path: $['name']
+[INFO] io.restassured.internal.RestAssuredResponseImpl@40f95b87
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/RegisterAnewAccount.png
+[INFO] RegisterAnewAccount Finished
+[INFO] RegisterAnewAccount passed
+[INFO] loginToAccount about to execute
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationTestCheckOut_1761750415676@gmail.com
+[INFO] Typed into element successfully:  P@ssw0rd
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/loginToAccount.png
+[INFO] loginToAccount Finished
+[INFO] loginToAccount passed
+[INFO] addToCart about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Men Tshirt']
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/addToCart.png
+[INFO] addToCart Finished
+[INFO] addToCart failed

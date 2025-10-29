@@ -1,0 +1,38 @@
+[INFO] Execution started
+[ERROR] Failed to clear the file\test-output\ScreenShots
+[ERROR] Failed to clear the fileCannot delete file: D:\00ITI_Testing\java\TAF21\test-output\Logs\logs.log
+[INFO] Test output directories cleaned
+[INFO] Test output directories created
+[INFO] Properties loaded
+[INFO] Allure environment info set successfully
+[ERROR] Error while extracting allure zip: C:\Users\BROTHERS\.m2\repository\allure\allure-2.35.1
+[INFO] Allure binaries downloaded and extracted successfully
+[INFO] Allure environment info set
+[INFO] ✅ JSON file loaded successfully: Checkout-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] RegisterAnewAccount about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[ERROR] ⚠️ Error while reading JSON path name from file Checkout-Data:  No results for path: $['name']
+[INFO] io.restassured.internal.RestAssuredResponseImpl@77954f77
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/RegisterAnewAccount.png
+[INFO] RegisterAnewAccount Finished
+[INFO] RegisterAnewAccount passed
+[INFO] loginToAccount about to execute
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationTestCheckOut_1761694338473@gmail.com
+[INFO] Typed into element successfully:  P@ssw0rd
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/loginToAccount.png
+[INFO] loginToAccount Finished
+[INFO] loginToAccount passed
+[INFO] addToCart about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Men Tshirt']
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/addToCart.png
+[INFO] addToCart Finished
+[INFO] addToCart failed

@@ -1,0 +1,241 @@
+[INFO] Execution started
+[ERROR] Failed to clear the file\test-output\ScreenShots
+[ERROR] Failed to clear the fileCannot delete file: D:\00ITI_Testing\java\TAF21\test-output\Logs\logs.log
+[INFO] Test output directories cleaned
+[INFO] Test output directories created
+[INFO] Properties loaded
+[INFO] Allure environment info set successfully
+[ERROR] Error while extracting allure zip: C:\Users\BROTHERS\.m2\repository\allure\allure-2.35.1
+[INFO] Allure binaries downloaded and extracted successfully
+[INFO] Allure environment info set
+[INFO] ✅ JSON file loaded successfully: Checkout-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] RegisterAnewAccount about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[ERROR] ⚠️ Error while reading JSON path name from file Checkout-Data:  No results for path: $['name']
+[INFO] io.restassured.internal.RestAssuredResponseImpl@524945e2
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/RegisterAnewAccount.png
+[INFO] RegisterAnewAccount Finished
+[INFO] RegisterAnewAccount passed
+[INFO] loginToAccount about to execute
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationTestCheckOut_1761694619120@gmail.com
+[INFO] Typed into element successfully:  P@ssw0rd
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/loginToAccount.png
+[INFO] loginToAccount Finished
+[INFO] loginToAccount passed
+[INFO] addToCart about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Men Tshirt']
+[INFO] Clicked on element successfully:  By.xpath: //div[@class='overlay-content']/p[normalize-space(text())='Men Tshirt']/following-sibling::a[contains(@class,'add-to-cart')]
+[INFO] Clicked on element successfully:  By.cssSelector: p > [href="/view_cart"]
+[INFO] Retrieved text from element successfully. Men Tshirt
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. 1
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Clicked on element successfully:  By.xpath: //a[normalize-space()='Proceed To Checkout']
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/addToCart.png
+[INFO] addToCart Finished
+[INFO] addToCart passed
+[INFO] CheckOutPageTest about to execute
+[INFO] Retrieved text from element successfully. Mr. Tester autoMan
+[INFO] Retrieved text from element successfully. sdada
+[INFO] Retrieved text from element successfully. cityNight
+[INFO] Retrieved text from element successfully. cityLight
+[INFO] Retrieved text from element successfully. cairo cairo 515151
+[INFO] Retrieved text from element successfully. India
+[INFO] Retrieved text from element successfully. 01234560014
+[INFO] Retrieved text from element successfully. Mr. Tester autoMan
+[INFO] Retrieved text from element successfully. sdada
+[INFO] Retrieved text from element successfully. cityNight
+[INFO] Retrieved text from element successfully. cityLight
+[INFO] Retrieved text from element successfully. cairo cairo 515151
+[INFO] Retrieved text from element successfully. India
+[INFO] Retrieved text from element successfully. 01234560014
+[INFO] Retrieved text from element successfully. Men Tshirt
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. 1
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/CheckOutPageTest.png
+[INFO] CheckOutPageTest Finished
+[INFO] CheckOutPageTest passed
+[INFO] after test register test
+[INFO] ✅ JSON file loaded successfully: Payment-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] RegisterAnewAccount about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[ERROR] ⚠️ Error while reading JSON path name from file Payment-Data:  No results for path: $['name']
+[INFO] io.restassured.internal.RestAssuredResponseImpl@1fa59b0d
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/RegisterAnewAccount.png
+[INFO] RegisterAnewAccount Finished
+[INFO] RegisterAnewAccount passed
+[INFO] loginToAccount about to execute
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationTestCheckOut_1761694619234@gmail.com
+[INFO] Typed into element successfully:  P@ssw0rd
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/loginToAccount.png
+[INFO] loginToAccount Finished
+[INFO] loginToAccount passed
+[INFO] addToCart about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Men Tshirt']
+[INFO] Clicked on element successfully:  By.xpath: //div[@class='overlay-content']/p[normalize-space(text())='Men Tshirt']/following-sibling::a[contains(@class,'add-to-cart')]
+[INFO] Clicked on element successfully:  By.cssSelector: p > [href="/view_cart"]
+[INFO] Retrieved text from element successfully. Men Tshirt
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. 1
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Clicked on element successfully:  By.xpath: //a[normalize-space()='Proceed To Checkout']
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/addToCart.png
+[INFO] addToCart Finished
+[INFO] addToCart passed
+[INFO] CheckOutPageTest about to execute
+[INFO] Retrieved text from element successfully. Mr. Tester autoMan
+[INFO] Retrieved text from element successfully. sdada
+[INFO] Retrieved text from element successfully. cityNight
+[INFO] Retrieved text from element successfully. cityLight
+[INFO] Retrieved text from element successfully. cairo cairo 515151
+[INFO] Retrieved text from element successfully. India
+[INFO] Retrieved text from element successfully. 01234560014
+[INFO] Retrieved text from element successfully. Mr. Tester autoMan
+[INFO] Retrieved text from element successfully. sdada
+[INFO] Retrieved text from element successfully. cityNight
+[INFO] Retrieved text from element successfully. cityLight
+[INFO] Retrieved text from element successfully. cairo cairo 515151
+[INFO] Retrieved text from element successfully. India
+[INFO] Retrieved text from element successfully. 01234560014
+[INFO] Retrieved text from element successfully. Men Tshirt
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. 1
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/CheckOutPageTest.png
+[INFO] CheckOutPageTest Finished
+[INFO] CheckOutPageTest passed
+[INFO] paymentTest about to execute
+[INFO] Clicked on element successfully:  By.linkText: Place Order
+[INFO] Typed into element successfully:  Muhammed
+[INFO] Typed into element successfully:  12345678910
+[INFO] Typed into element successfully:  331
+[INFO] Typed into element successfully:  7
+[INFO] Typed into element successfully:  2029
+[INFO] Clicked on element successfully:  By.id: submit
+[INFO] Retrieved text from element successfully. ORDER PLACED!
+[INFO] Clicked on element successfully:  By.linkText: Download Invoice
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/paymentTest.png
+[INFO] paymentTest Finished
+[INFO] paymentTest passed
+[INFO] after test register test
+[INFO] ✅ JSON file loaded successfully: Product-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] checkCartTC about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Men Tshirt']
+[INFO] Clicked on element successfully:  By.xpath: //div[@class='overlay-content']/p[normalize-space(text())='Men Tshirt']/following-sibling::a[contains(@class,'add-to-cart')]
+[INFO] Clicked on element successfully:  By.cssSelector: .modal-footer > button
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Blue Top']
+[INFO] Clicked on element successfully:  By.xpath: //div[@class='overlay-content']/p[normalize-space(text())='Blue Top']/following-sibling::a[contains(@class,'add-to-cart')]
+[INFO] Clicked on element successfully:  By.cssSelector: p > [href="/view_cart"]
+[INFO] Retrieved text from element successfully. Men Tshirt
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] Retrieved text from element successfully. 1
+[INFO] Retrieved text from element successfully. Rs. 400
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/checkCartTC.png
+[INFO] checkCartTC Finished
+[INFO] checkCartTC passed
+[INFO] after test register test
+[INFO] ✅ JSON file loaded successfully: Login-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] invalidLoginTC1 about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationtest_1761694619285@gmail.com
+[INFO] Typed into element successfully:  P@ssw0rd1
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[INFO] Retrieved text from element successfully. Your email or password is incorrect!
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/invalidLoginTC1.png
+[INFO] invalidLoginTC1 Finished
+[INFO] invalidLoginTC1 passed
+[INFO] after test register test
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] invalidLoginTC2 about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationtest_1761694619285@gmamil.com
+[INFO] Typed into element successfully:  P@ssw0rd
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[INFO] Retrieved text from element successfully. Your email or password is incorrect!
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/invalidLoginTC2.png
+[INFO] invalidLoginTC2 Finished
+[INFO] invalidLoginTC2 passed
+[INFO] after test register test
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] validLoginTC about to execute
+[INFO] io.restassured.internal.RestAssuredResponseImpl@6f3af541
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] Clicked on element successfully:  By.linkText: Signup / Login
+[INFO] Typed into element successfully:  automationtest_1761694619285@gmail.com
+[INFO] Typed into element successfully:  P@ssw0rd
+[INFO] Clicked on element successfully:  By.cssSelector: [data-qa="login-button"]
+[INFO] Retrieved text from element successfully. automation_test
+[INFO] Actual user name:  automation_test
+[INFO] io.restassured.internal.RestAssuredResponseImpl@533e74c5
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/validLoginTC.png
+[INFO] validLoginTC Finished
+[INFO] validLoginTC passed
+[INFO] after test register test
+[INFO] ✅ JSON file loaded successfully: ProductDetails-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] addReviewTC about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] Clicked on element successfully:  By.xpath: //p[normalize-space(text())='Blue Top']/following::div[@class='choose'][1]
+[INFO] Typed into element successfully:  automation
+[INFO] Typed into element successfully:  automation@gmail.com
+[INFO] Typed into element successfully:  great product
+[INFO] Clicked on element successfully:  By.id: button-review
+[INFO] Retrieved text from element successfully. Thank you for your review.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/addReviewTC.png
+[INFO] addReviewTC Finished
+[INFO] addReviewTC passed
+[INFO] after test register test
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] checkDetailsTC about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] Clicked on element successfully:  By.xpath: //p[normalize-space(text())='Blue Top']/following::div[@class='choose'][1]
+[INFO] Retrieved text from element successfully. Blue Top
+[INFO] Retrieved text from element successfully. Rs. 500
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/checkDetailsTC.png
+[INFO] checkDetailsTC Finished
+[INFO] checkDetailsTC passed
+[INFO] after test register test
+[INFO] ✅ JSON file loaded successfully: Product-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] addProductTC about to execute
+[INFO] Navigated to URL:  https://automationexercise.com/products
+[INFO] hover to element done By.xpath: //div[@class='productinfo text-center']/p[normalize-space(text())='Men Tshirt']
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/addProductTC.png
+[INFO] addProductTC Finished
+[INFO] addProductTC failed

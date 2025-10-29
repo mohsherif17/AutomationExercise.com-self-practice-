@@ -1,0 +1,22 @@
+[INFO] Execution started
+[ERROR] Failed to clear the file\test-output\ScreenShots
+[ERROR] Failed to clear the fileCannot delete file: D:\00ITI_Testing\java\TAF21\test-output\Logs\logs.log
+[INFO] Test output directories cleaned
+[INFO] Test output directories created
+[INFO] Properties loaded
+[INFO] Allure environment info set successfully
+[ERROR] Error while extracting allure zip: C:\Users\BROTHERS\.m2\repository\allure\allure-2.35.1
+[INFO] Allure binaries downloaded and extracted successfully
+[INFO] Allure environment info set
+[INFO] ✅ JSON file loaded successfully: Checkout-Data
+[INFO] Initializing {} driver edge
+[INFO] Navigated to URL:  https://automationexercise.com
+[INFO] before test register test
+[INFO] RegisterAnewAccount about to execute
+[INFO] Navigated to URL:  https://automationexercise.com
+[ERROR] ⚠️ Error while reading JSON path name from file Checkout-Data:  No results for path: $['name']
+[INFO] io.restassured.internal.RestAssuredResponseImpl@524945e2
+[WARN] No soft assertions were made. assertAll() will not be called.
+[INFO] 📸 Screenshot attached to Allure: test-output/screenshots/RegisterAnewAccount.png
+[INFO] RegisterAnewAccount Finished
+[INFO] RegisterAnewAccount passed

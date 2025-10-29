@@ -1,0 +1,33 @@
+{"customer": {
+  "name": "automation_testCheckOut",
+  "email": "automationTestCheckOut_",
+  "title": "Mr",
+  "password": "P@ssw0rd",
+  "day": "17",
+  "month": "June",
+  "year": "2000",
+  "FName": "Tester",
+  "LName": "autoMan",
+  "company": "sdada",
+  "address1": "cityNight",
+  "address2": "cityLight",
+  "country": "India",
+  "city": "cairo",
+  "state": "cairo",
+  "zipCode": "515151",
+  "mobileNumber": "01234560014"
+},
+  "product1": {
+  "name": "Men Tshirt",
+  "price": "Rs. 400",
+  "quantity":"1",
+  "total": "Rs. 400"
+},
+  "card": {
+    "name": "Muhammed",
+    "number": "12345678910",
+    "cvv": "331",
+    "expMonth": "7",
+    "expYear": "2029"
+  }
+}
